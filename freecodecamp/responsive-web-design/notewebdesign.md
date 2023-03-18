@@ -1,1 +1,0 @@
-# Anotações referente ao curso Design responsivo para a web (novo) - **Em Atualização!!!**
