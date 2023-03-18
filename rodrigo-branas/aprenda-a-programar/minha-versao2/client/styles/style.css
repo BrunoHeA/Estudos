@@ -1,0 +1,71 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+    --color-darkpurple: #241126;
+    --color-table-odd: #AF7EBD;
+    --color-table-even: #864EA6;
+    --color-purple: #6B4D73;
+    --color-cyan: #7ABFB8;
+    --color-yellow: #f2c97edc;
+    --color-black: #0D0D0D;
+    --color-white: #fff;
+    --color-bar-negative: #BF6073;
+    --color-bar-positive: #2E7361;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--color-darkpurple);
+    color: white;
+    font-family: "Lato", sans-serif;  
+}
+
+hr {
+    border-color: var(--color-table-odd);
+}
+
+.invisibleElement {
+    display: none;
+}
+
+.beginButton {
+    width: 2.5em;
+    background-color: var(--color-cyan);
+    color: var(--color-black);
+    border-radius: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+    position: fixed;
+    bottom: 2vh;
+    left: 50vw;
+    transform: translateX(-50%);
+    z-index: 100;
+    border: 2px solid var(--color-darkpurple);
+    box-shadow: 1px 2px 0px 0px #182524;
+}
+
+.plusButton {
+    position: fixed;
+    bottom: 11vh;
+    right: 11vw;
+    width: 80px;
+    height: 80px;
+    border-radius: 25px;
+    background-color: var(--color-cyan);
+    color: var(--color-black);
+    font-size: 3.5rem;
+    border: 2px solid var(--color-darkpurple);
+    box-shadow: 2px 3px 0px 0px #182524;
+}
+
+
