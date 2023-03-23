@@ -43,6 +43,9 @@
 - [ ] **Redes onboarding: uma perspectiva prática**
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/redes-onboarding-rede-forma-pratica) (Pago: Assinatura)
 
+- [ ] **HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags**
+* Acesso ao conteudo: [Alura]([https://cursos.alura.com.br/course/redes-onboarding-rede-forma-pratica](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags)) (Pago: Assinatura)
+
 # :date: Cursos que quero fazer:
 
 - [ ] SQL com MySQL: manipule e consulte dados [12 Horas]
