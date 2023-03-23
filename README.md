@@ -37,11 +37,14 @@
 - [x] **Windows Prompt: utilizando o CMD**
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/windows-prompt-utilizando-cmd) (Pago: Assinatura)
 
+- [x] **HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags**
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags) (Pago: Assinatura)
+
   
 # :books:Cursos que estou fazendo:
 
-- [ ] **HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags**
-* Acesso ao conteudo: [Alura]([https://cursos.alura.com.br/course/redes-onboarding-rede-forma-pratica](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags)) (Pago: Assinatura)
+- [ ] **HTML e CSS: Classes, posicionamento e Flexbox**
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox) (Pago: Assinatura)
 
 # :date: Cursos que quero fazer:
 
