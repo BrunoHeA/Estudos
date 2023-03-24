@@ -45,7 +45,7 @@
 
 - [ ] **HTML e CSS: Classes, posicionamento e Flexbox**
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox) (Pago: Assinatura)
-* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/tree/main/Alura/HTML-e-CSS-Classes,-posicionamento-e-Flexbox/anotacoes.md)
+* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/anotacoes.md)
 
 # :date: Cursos que quero fazer:
 
