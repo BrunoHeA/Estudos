@@ -32,26 +32,42 @@
 
 
 - [x] **Python: entendendo a Orientação a Objetos**
-* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos) (Pago: Assinatura)
-
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/HTML e CSS cabeçalho, footer e variáveis CSSpython-3-intro-orientacao-objetos) (Pago: Assinatura)
+HTML e CSS Classes, posicionamento e Flexbox
 - [x] **Windows Prompt: utilizando o CMD**
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/windows-prompt-utilizando-cmd) (Pago: Assinatura)
 
 - [x] **HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags**
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags) (Pago: Assinatura)
 
+- [x] **HTML e CSS: Classes, posicionamento e Flexbox**
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox) (Pago: Assinatura)
+* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/anotacoes.md) 🟢
+
   
 # :books:Cursos que estou fazendo:
 
-- [ ] **HTML e CSS: Classes, posicionamento e Flexbox**
-* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox) (Pago: Assinatura)
-* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/anotacoes.md)
+- [ ] **HTML e CSS: cabeçalho, footer e variáveis CSS**
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css) (Pago: Assinatura)
+* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20Classes%2C%footer%20e%20variaveis%20CSS/anotacoes.md) 🟡
 
 # :date: Cursos que quero fazer:
 
 - [ ] SQL com MySQL: manipule e consulte dados [12 Horas]
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/mysql-manipule-dados-com-sql?preRequirementFrom=pentest-explorando-vulnerabilidades-aplicacoes-web) (Pago: Assinatura)
-
+* Minhas anotações do curso: [Anotações]() 🔴
+<br>
+<br>
 
 - [ ] HTTP: Entendendo a web por baixo dos panos [14 Horas]
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/http-fundamentos?preRequirementFrom=pentest-explorando-vulnerabilidades-aplicacoes-web) (Pago: Assinatura)
+* Minhas anotações do curso: [Anotações]() 🔴
+
+---
+<br>
+
+### **Lengenda sobre as anotações:**<br>
+
+🟢 == anotações terminadas.<br>
+🟡 == anotações sendo atualizadas.<br>
+🔴 == Não iniciei as anotações.<br>
