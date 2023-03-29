@@ -120,3 +120,52 @@ CSS:
 ## Aula 04 - Navegando entre páginas
 
 Nada de novo nessa aula apenas estilizando a nova pagina e ensinando a importancia de ter o minimo de arquivos possiveis para melhor performance do site
+
+---
+
+## Aula 05 - Aplicando variaveis CSS
+
+### **Variaveis**
+Variaveis assim como em todas as outras linguagens é apenas um lugar para armazenar informações, porém, o jeito de declarar as variaveis é bem diferente das que eu conheço, como por exemplo em GML.
+
+No CSS o jeito de declarar variaveis é assim:
+
+```CSS
+/* Variavel local */
+.body {
+    --color-text: #F6F6F6;
+    color: var(--color-text);
+}
+
+/* Variavel Global */
+:root {
+    --color-text: #F6F6F6;
+}
+
+.body {
+    color: var(--color-text)
+}
+```
+
+Ja em GML (que é como sempre fui acostumado) é:
+
+```GML
+// Variavel temporaria
+
+var color_text = make_color_rgb(F6,F6,F6)
+
+draw_set_color(color_text)
+
+// Variavel Local
+
+color_text = make_color_rgb(F6,F6,F6)
+
+draw_set_color(color_text)
+
+// Variavel Global
+
+global.color_text = make_color_rgb(F6,F6,F6)
+
+draw_set_color(global.color_text)
+
+```

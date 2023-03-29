@@ -44,12 +44,16 @@ HTML e CSS Classes, posicionamento e Flexbox
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox) (Pago: Assinatura)
 * Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/anotacoes.md) 🟢
 
+- [x] **HTML e CSS: cabeçalho, footer e variáveis CSS**
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css) (Pago: Assinatura)
+* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20cabe%C3%A7alho%2C%20footer%20e%20vari%C3%A1veis%20CSS/anotacoes.md) 🟢
+
   
 # :books:Cursos que estou fazendo:
 
-- [ ] **HTML e CSS: cabeçalho, footer e variáveis CSS**
-* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css) (Pago: Assinatura)
-* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20Classes%2C%footer%20e%20variaveis%20CSS/anotacoes.md) 🟡
+- [ ] **HTML e CSS: trabalhando com responsividade e publicação de projetos**
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos) (Pago: Assinatura)
+* Minhas anotações do curso: [Anotações]() 🔴
 
 # :date: Cursos que quero fazer:
 
