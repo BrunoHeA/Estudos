@@ -32,8 +32,8 @@
 
 
 - [x] **Python: entendendo a Orientação a Objetos**
-* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/HTML e CSS cabeçalho, footer e variáveis CSSpython-3-intro-orientacao-objetos) (Pago: Assinatura)
-HTML e CSS Classes, posicionamento e Flexbox
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos) (Pago: Assinatura)
+
 - [x] **Windows Prompt: utilizando o CMD**
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/windows-prompt-utilizando-cmd) (Pago: Assinatura)
 
