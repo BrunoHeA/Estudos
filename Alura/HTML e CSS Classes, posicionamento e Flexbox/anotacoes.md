@@ -1,5 +1,6 @@
 # Anotações referente ao curso "HTML e CSS: Classes, posicionamento e Flexbox" - **Finalizado**
-Objetivo do curso: Aprender mais sobre CSS.
+
+Projeto refente ao seguinte repositorio: [Repositorio](https://github.com/BrunoHeA/HTML-e-CSS-ambientes-de-desenvolvimento)
 
 ---
 ## Aula 01 - Seletores e posicionamento

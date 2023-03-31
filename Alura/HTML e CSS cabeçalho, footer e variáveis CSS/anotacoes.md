@@ -1,4 +1,8 @@
-# Anotações referente ao curso "HTML e CSS: cabeçalho, footer e variáveis CSS" - **Em andamento!!**
+# Anotações referente ao curso "HTML e CSS: cabeçalho, footer e variáveis CSS" - **Finalizado**
+
+Projeto refente ao seguinte repositorio: [Repositorio](https://github.com/BrunoHeA/HTML-e-CSS-ambientes-de-desenvolvimento)
+
+---
 
 ## Aula 01 - Preparando o layout do projeto
 
