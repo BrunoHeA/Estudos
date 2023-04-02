@@ -60,7 +60,7 @@
 
 - [ ] **HTML e CSS: responsividade com mobile-first**
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-responsividade-mobile-first) (Pago: Assinatura)
-* Minhas anotações do curso: [Anotações]() 🔴
+* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20responsividade%20com%20mobile-first/anotacoes.md) 🔴
 
 # :date: Cursos que quero fazer:
 
