@@ -52,11 +52,14 @@
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos) (Pago: Assinatura)
 * Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20trabalhando%20com%20responsividade%20e%20publica%C3%A7%C3%A3o%20de%20projetos/anotacoes.md) 🟢
 
+- [ ] **HTML e CSS: praticando HTML/CSS**
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-praticando-html-css) (Pago: Assinatura)
+* Minhas anotações do curso: [Anotações](https://github.com/BrunoHeA/Estudos/blob/main/Alura/HTML%20e%20CSS%20praticando%20HTML/anotacoes.md) 🟢
   
 # :books:Cursos que estou fazendo:
 
-- [ ] **HTML e CSS: praticando HTML/CSS**
-* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-praticando-html-css) (Pago: Assinatura)
+- [ ] **HTML e CSS: responsividade com mobile-first**
+* Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/html-css-responsividade-mobile-first) (Pago: Assinatura)
 * Minhas anotações do curso: [Anotações]() 🔴
 
 # :date: Cursos que quero fazer:

@@ -1,6 +1,6 @@
 # Anotações referente ao curso "HTML e CSS: praticando HTML/CSS" - **Finalizado**
 
-Projeto refente ao seguinte repositorio: [Repositorio]()
+Projeto refente ao seguinte repositorio: [Repositorio](https://github.com/BrunoHeA/Projeto-HTML-e-CSS-01)
 
 ---
 ## Aula 01 - Iniciando o projeto
