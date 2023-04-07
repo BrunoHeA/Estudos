@@ -1,6 +1,6 @@
-# Anotações referente ao curso "HTML e CSS: responsividade com mobile-first" - **Em andamento**
+# Anotações referente ao curso "HTML e CSS: responsividade com mobile-first" - **Finalizado**
 
-Projeto refente ao seguinte repositorio: [Repositorio]()
+Projeto refente ao seguinte repositorio: [Repositorio](https://github.com/BrunoHeA/projeto-alurabooks)
 
 ---
 ## Aula 01 - Aplicando a metodologia mobile-first
@@ -36,3 +36,45 @@ SwiperJS é uma api em que é possivel importar no projeto HTML, ele mexe um pou
 ### **Wrap**
 
 flex-wrap: wrap é uma estilização utilizada junto com o flex-box para que o conteudo ao chegar no limite da tela, ele faça uma quebra de linha oa invéz de tentar esticar a tela como ele faz por padrão.
+
+---
+## Aula 04 - Selecionando Media Queries
+
+nada de novo, apenas usando das mesmas coisas só que com o media queries para estilizar em outro tamanho de tela.
+
+---
+## Aula 05 - Produzindo CSS no desktop
+
+### **Combinadores CSS**
+
+"~" - Procura outro elemento que esteja abaixo dele("irmão"), como por exemplo:
+
+```CSS
+/* Nesse exemplo ele procura a classe .container-rotulo que esteja embaixo da classe .container-botao */
+.container-botao:checked ~ .container-rotulo {
+    background: var(--azul-degrade);
+}
+```
+
+">" - Procura outro elemento que esteja dentro(filho) do elemento anterior, como por exemplo:
+
+```CSS
+/* Nesse exemplo ele procura a classe .cabecalho-menu-h que esteja dentro da classe .container-rotulo */
+.container-botao:checked ~ .container-rotulo > .cabecalho-menu-h {
+    background-image: url("../assets/Menu Aberto.svg");
+}
+```
+
+"+" - Procura outro elemento que esteja abaixo dele("irmão") mas esse precisa necessariamente estar logo abaixo grudado com a classe, como por exemplo.
+
+```CSS
+/* Nesse exemplo ele procura a classe .container-rotulo que esteja embaixo da classe .container-botao mas a classe .container botão tem que estar grudada com a .container-rotulo no HTML */
+.container-botao:checked ~ .container-rotulo {
+    background: var(--azul-degrade);
+}
+```
+
+---
+## Aula 06 - Publicando o projeto
+
+nada novo, só publicação do projeto.
