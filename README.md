@@ -79,11 +79,11 @@
 * Acesso ao resultado: [AluraPlus](https://projeto-html-e-css-01.vercel.app) 🟢
 * Repositório do projeto: [Repositório](https://github.com/BrunoHeA/Projeto-HTML-e-CSS-01)
 
-# 💻 Projetos que estou fazendo (treinos):
-
-- [ ] **Desafio 01**
-* Acesso ao resultado: [Desafio 01](https://desafio01-chi.vercel.app) 🟡
+- [x] **Desafio 01**
+* Acesso ao resultado: [Desafio 01](https://desafio01-chi.vercel.app) 🟢
 * Repositório do projeto: [Repositório](https://github.com/BrunoHeA/Desafio01)
+
+# 💻 Projetos que estou fazendo (treinos):
 
 - [ ] **"Portfolio"**
 * Acesso ao resultado: [Portfolio](https://html-e-css-alura.vercel.app/index.html) 🟡
