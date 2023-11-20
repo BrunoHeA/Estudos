@@ -87,6 +87,10 @@
 * Acesso ao resultado: [RPG](https://etcetera-ten.vercel.app) 🟢
 * Repositório do projeto: [Repositório](https://github.com/BrunoHeA/Site-RPG)
 
+- [x] **Desafio 02**
+* Acesso ao resultado: [Desafio 02](https://desafio02-lyart.vercel.app) 🟢
+* Repositório do projeto: [Repositório](https://github.com/BrunoHeA/Desafio02)
+
 # 💻 Projetos que estou fazendo (treinos):
 
 - [ ] **"Portfolio"**
