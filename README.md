@@ -91,11 +91,11 @@
 * Acesso ao resultado: [Desafio 02](https://desafio02-lyart.vercel.app) 🟢
 * Repositório do projeto: [Repositório](https://github.com/BrunoHeA/Desafio02)
 
-# 💻 Projetos que estou fazendo (treinos):
-
-- [ ] **Desafio 03**
-* Acesso ao resultado: [Desafio 03]() 🟡
+- [x] **Desafio 03**
+* Acesso ao resultado: [Desafio 03](https://desafio03-eosin.vercel.app) 🟢
 * Repositório do projeto: [Repositório](https://github.com/BrunoHeA/Desafio03)
+
+# 💻 Projetos que estou fazendo (treinos):
 
 - [ ] **"Portfolio"**
 * Acesso ao resultado: [Portfolio](https://html-e-css-alura.vercel.app/index.html) 🟡
