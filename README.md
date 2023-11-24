@@ -93,6 +93,10 @@
 
 # 💻 Projetos que estou fazendo (treinos):
 
+- [ ] **Desafio 03**
+* Acesso ao resultado: [Desafio 03]() 🟡
+* Repositório do projeto: [Repositório](https://github.com/BrunoHeA/Desafio03)
+
 - [ ] **"Portfolio"**
 * Acesso ao resultado: [Portfolio](https://html-e-css-alura.vercel.app/index.html) 🟡
 * Repositório do projeto: [Repositório](https://github.com/BrunoHeA/HTML-e-CSS-Alura)
