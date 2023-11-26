@@ -103,6 +103,10 @@
   
 # 📚 Cursos que estou fazendo:
 
+- [ ] **Javascript**
+* Acesso ao conteudo: [Curso em video](https://www.cursoemvideo.com/curso/javascript/) (Gratuito)
+* Minhas anotações do curso: [Anotações]() 🔴
+
 - [ ] **CSS: Flexbox e layouts responsivos**
 * Acesso ao conteudo: [Alura](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos) (Pago: Assinatura)
 * Minhas anotações do curso: [Anotações]() 🔴
