@@ -126,14 +126,14 @@
 ---
 <br>
 
-### **Lengenda sobre as anotações:**<br>
+### **Legenda sobre as anotações:**<br>
 
 🟢 == anotações terminadas.<br>
 🟡 == anotações sendo atualizadas.<br>
 🔴 == Não iniciei as anotações.<br>
 🟣 == Não terá anotações. <br>
 
-### **Lengenda sobre os projetos:**<br>
+### **Legenda sobre os projetos:**<br>
 
 🟢 == Projeto encerrado.<br>
 🟡 == Sendo atualizado.<br>
